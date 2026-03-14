@@ -1,0 +1,53 @@
+name: Daily Crypto Benchmark Update
+
+on:
+  schedule:
+    # 매일 한국 시간 오전 9시 (UTC 00:00) 
+    - cron: "0 0 * * *"
+  # 수동 실행 허용
+  workflow_dispatch:
+
+jobs:
+  run-daily-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch articles and update data.js
+        run: |
+          python fetch_data.py
+
+      - name: Check if src/data.js changed
+        id: changes
+        run: |
+          if git diff --quiet src/data.js 2>/dev/null; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add src/data.js
+          git commit -m "chore: Daily update of trending crypto benchmark $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
+          git push
+
+      - name: Log Result
+        run: |
+          echo "Automated Crypto Benchmark data updated successfully."
