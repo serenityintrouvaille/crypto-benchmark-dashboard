@@ -1,0 +1,314 @@
+{
+  "last_updated": "2026-03-15T06:24:35.026750+00:00",
+  "item_count": 13,
+  "daily_briefing": "오늘은 다양한 웹3 프로덕트 및 파트너십 소식이 업데이트되었습니다.",
+  "data": [
+    {
+      "id": "1773555687000_BITCOIN(BTC)",
+      "name": "Bitcoin (BTC)",
+      "category": "Infrastructure",
+      "event_type": "Update",
+      "one_line_summary": "비트코인 총 공급량 2,100만 개 중 2,000만 개 채굴 완료로 인한 희소성 강화 및 채굴 생태계의 전환점 도래",
+      "why_it_matters": "비트코인이 2,000만 개 채굴이라는 역사적인 이정표를 달성한 것은 '디지털 금'으로서의 희소성 가치를 시장에 다시 한번 강력하게 각인시키는 계기가 됩니다. 이제 남은 채굴 물량이 단 100만 개에 불과함에 따라, 채굴 산업은 블록 보상 위주의 수익 구조에서 네트워크 거래 수수료 중심의 경제 모델로 이행해야 하는 중대한 기술적 및 비즈니스적 도전에 직면하게 되었습니다. 이는 채굴 하드웨어의 효율성 극대화와 에너지 최적화를 가속화하여 산업 전반의 고도화를 이끌 것이며, 공급 부족 현상이 심화됨에 따라 기관 투자자들의 장기 보유 심리를 더욱 자극할 것으로 보입니다. 결과적으로 이번 마일스톤은 비트코인 네트워크의 장기적인 보안 유지 방식과 경제적 지속 가능성을 재확인하는 중요한 분기점이 될 것입니다.",
+      "detected_date": "2026-03-14T05:07:30+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/361137/bitcoin-major-milestone-miners"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/360969/bitcoin-weekly-hig-middle-east-tensions-lift-oil-pressure-equities"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/360945/bitcoin-quantum-threat-real-not-imminent-cathie-wood-ark-invest"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 3,
+      "tags": [
+        "Infrastructure"
+      ],
+      "trending_score": 60,
+      "source_count": 3
+    },
+    {
+      "id": "1773555665092_ETHEREUMFOUNDATION",
+      "name": "Ethereum Foundation",
+      "category": "Infrastructure",
+      "event_type": "Update",
+      "one_line_summary": "이더리움 재단이 톰 리의 비트마인 이머전 테크놀로지에 약 1,020만 달러 상당의 5,000 ETH를 직접 매각했습니다.",
+      "why_it_matters": "이번 거래는 이더리움 재단이 생태계 운영 및 개발 지원을 위한 재원을 확보하는 과정에서 시장에 직접적인 매도 압력을 주지 않고 기관 투자자와의 장외거래(OTC)를 선택했다는 점에서 전략적 의의가 큽니다. 특히 월스트리트의 유명 분석가인 톰 리가 이끄는 비트마인 이머전 테크놀로지가 대규모의 ETH를 직접 매입했다는 사실은 기관 투자자들이 이더리움을 단순한 자산 이상의 핵심 인프라로 인식하고 있음을 시사합니다. 이는 이더리움의 장기적인 가치 상승에 대한 신뢰를 보여주는 동시에, 채굴 및 인프라 전문 기업들이 포트폴리오를 다변화하여 이더리움 생태계에 깊숙이 관여하고 있다는 증거이기도 합니다. 결과적으로 이러한 투명한 대규모 자산 이동은 시장의 불확실성을 해소하고, 향후 기관 자금의 유입 경로를 더욱 명확히 하는 긍정적인 신호로 작용할 것입니다.",
+      "detected_date": "2026-03-14T10:12:58+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/361162/tom-lees-bitmine-buys-10-million-ethereum-foundation"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "Infrastructure"
+      ],
+      "trending_score": 55,
+      "source_count": 1
+    },
+    {
+      "id": "1773555674686_EMINIFX",
+      "name": "EminiFX",
+      "category": "Investment/Security",
+      "event_type": "Update",
+      "one_line_summary": "목사가 주도한 암호화폐 폰지 사기 사건인 EminiFX에 대한 RICO(조직범죄피해자구제법) 소송 청구가 법원에서 기각되었습니다.",
+      "why_it_matters": "이번 판결은 암호화폐 관련 사기 사건에서 조직범죄피해자구제법(RICO)의 적용 범위를 결정짓는 중요한 법적 선례를 제공하며, 향후 유사한 암호화폐 투자 사기 소송의 전략적 방향에 상당한 영향을 미칠 것으로 보입니다. 주동자인 에디 알렉상드르가 이미 상품 사기 혐의로 유죄 판결을 받고 복역 중임에도 불구하고, 피해자들이 제기한 조직범죄 관련 청구가 기각된 것은 암호화폐 범죄에 대한 사법부의 법리적 해석 기준을 명확히 보여주는 사례입니다. 이는 암호화폐 시장의 규제 및 법적 책임 소재를 구체화하는 과정의 일환으로, 투자자 보호를 위한 법적 장치가 실제 소송에서 어떻게 작동하는지 심도 있게 시사합니다. 결과적으로 암호화폐를 이용한 금융 범죄에 대한 사법적 경각심을 일깨우는 동시에, 법적 구제 수단의 한계와 업계 전반의 투명성 제고 필요성을 강력하게 시사하는 비즈니스적 의의를 지닙니다.",
+      "detected_date": "2026-03-14T07:31:50+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/361084/judge-rejects-rico-claims-in-lawsuit-over-pastor-led-crypto-ponzi-scheme"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "Investment/Security"
+      ],
+      "trending_score": 55,
+      "source_count": 1
+    },
+    {
+      "id": "1773555722325_KRAKEN(SPAC)",
+      "name": "Kraken (SPAC)",
+      "category": "Investment",
+      "event_type": "Funding",
+      "one_line_summary": "크라켄과 연계된 SPAC이 최대 100억 달러 가치의 암호화폐 기업 인수를 통해 월스트리트 상장을 추진하고 있습니다.",
+      "why_it_matters": "이번 움직임은 암호화폐 거래소 크라켄이 전통 금융 시장과의 접점을 확대하려는 전략적 행보로, 최대 100억 달러 규모의 대형 인수를 통해 웹3 기업의 제도권 진입을 가속화할 것으로 보입니다. 특히 월스트리트 투자자들의 관심을 끌 수 있는 우량 암호화폐 네이티브 기업을 타겟으로 삼고 있다는 점은 암호화폐 산업의 성숙도와 비즈니스 모델이 전통 자본 시장에서도 충분히 경쟁력이 있음을 시사합니다. 이는 단순히 한 기업의 상장을 넘어, 침체되었던 SPAC 시장에 새로운 활력을 불어넣고 대형 웹3 프로젝트들에게 명확한 엑싯(Exit) 경로와 공신력을 제공하는 중요한 이정표가 될 것입니다. 또한, 이러한 대규모 자본 유입은 암호화폐 생태계 전반의 유동성을 개선하고 기술 혁신을 뒷받침하는 강력한 동력이 될 것으로 기대됩니다.",
+      "detected_date": "2026-03-13T09:33:24+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/361042/kraken-linked-spac-could-target-crypto-firm-10-billion"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "Investment"
+      ],
+      "trending_score": 55,
+      "source_count": 1
+    },
+    {
+      "id": "1773555711680_TRUMPMEMECOIN",
+      "name": "Trump Meme Coin",
+      "category": "Meme Coin",
+      "event_type": "Update",
+      "one_line_summary": "도널드 트럼프 전 대통령 관련 밈 코인이 독점 이벤트 참여 혜택을 노린 투자자들의 매수세에 힘입어 가격과 거래량이 폭발적으로 증가했습니다.",
+      "why_it_matters": "이번 현상은 단순한 투기적 자산으로 여겨졌던 밈 코인이 특정 커뮤니티의 독점적인 오프라인 이벤트 참여권이나 실질적인 유틸리티와 결합될 때 발생하는 강력한 시장 파급력을 보여줍니다. 특히 솔라나(Solana) 네트워크를 기반으로 한 밈 코인 생태계가 정치적 인물과 결합하여 새로운 형태의 '소셜 파이(SocialFi)' 모델을 제시하고 있으며, 이는 단순 가격 변동성을 넘어 홀더들에게 강력한 보유 동기를 부여하는 사례가 됩니다. 또한, 유력 정치인과 관련된 암호화폐 자산의 성장은 향후 규제 환경이나 대중의 암호화폐 수용도에 있어 중요한 지표로 작용할 수 있으며, 커뮤니티 기반의 자산이 어떻게 실물 경제 및 이벤트와 연결될 수 있는지를 증명하는 기술적, 비즈니스적 실험으로 평가받습니다.",
+      "detected_date": "2026-03-13T10:04:44+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/361063/trump-meme-coin-price-trading-volume-skyrocket-exclusive-event"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "Meme Coin"
+      ],
+      "trending_score": 50,
+      "source_count": 1
+    },
+    {
+      "id": "1773555733151_STABLECOINS",
+      "name": "Stablecoins",
+      "category": "Payments",
+      "event_type": "Update",
+      "one_line_summary": "억만장자 투자자 스탠리 드러켄밀러가 향후 10~15년 내에 스테이블코인이 전 세계 결제 시스템을 주도할 것이라는 낙관적인 전망을 내놓았습니다.",
+      "why_it_matters": "전설적인 헤지펀드 매니저인 스탠리 드러켄밀러의 이러한 발언은 전통 금융권의 거물들이 암호화폐의 실질적인 유틸리티를 인정하기 시작했다는 중요한 신호입니다. 스테이블코인은 기존의 복잡하고 느린 은행 간 결제 시스템을 대체하여 즉각적이고 저렴한 국경 간 송금을 가능하게 함으로써 금융 효율성을 극대화할 수 있는 잠재력을 가지고 있습니다. 특히 법정화폐의 가치를 디지털 환경으로 전이시킨 스테이블코인이 결제 시장을 장악하게 될 경우, 이는 단순한 자산 투자를 넘어 전 세계 상거래의 근간이 블록체인 인프라 위로 올라오는 거대한 패러다임의 전환을 의미합니다. 이러한 변화는 웹3 생태계가 대중화되는 핵심 동력이 될 것이며, 디지털 자산이 실물 경제와 완전히 통합되는 미래를 가속화할 것으로 기대됩니다.",
+      "detected_date": "2026-03-13T09:05:45+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/361056/billionaire-investor-stanley-druckenmiller-bullish-stablecoin-growth"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "Payments"
+      ],
+      "trending_score": 50,
+      "source_count": 1
+    },
+    {
+      "id": "1773555743683_U.S.TREASURY(OFAC)/NORTHKOREANCRYPTOFRAUDINVESTIGATION",
+      "name": "U.S. Treasury (OFAC) / North Korean Crypto Fraud Investigation",
+      "category": "Security & Compliance",
+      "event_type": "Update",
+      "one_line_summary": "미국 재무부가 약 8억 달러 규모의 암호화폐 관련 사기 행각을 벌인 북한 IT 노동자 및 관련 단체에 대해 제재를 발표했습니다.",
+      "why_it_matters": "이번 제재 조치는 암호화폐 생태계 내에서 발생하는 국가 주도의 정교한 금융 범죄를 억제하려는 미국 정부의 강력한 의지를 보여주는 중요한 사례입니다. 약 8억 달러에 달하는 막대한 자금이 연루된 이번 사건은 웹3 기업들이 인력 채용 및 파트너십 과정에서 직면할 수 있는 보안 위협과 신원 확인(KYC) 절차의 중요성을 다시 한번 일깨워줍니다. 특히 북한 IT 노동자들이 위장 취업을 통해 자금을 세탁하고 탈취하는 수법이 구체화됨에 따라, 온체인 데이터 분석과 보안 솔루션의 역할이 업계 전반에서 더욱 강조될 것입니다. 장기적으로 이러한 규제 당국의 적극적인 개입은 시장의 투명성을 높이고 기관 투자자들이 안심하고 진입할 수 있는 안전한 규제 환경을 조성하는 데 긍정적인 영향을 미칠 것으로 평가됩니다.",
+      "detected_date": "2026-03-13T07:37:44+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/361043/us-treasury-sanctions-alleged-800-million-north-korean-fraud-operation"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "Security & Compliance"
+      ],
+      "trending_score": 50,
+      "source_count": 1
+    },
+    {
+      "id": "1773555752965_STORYPROTOCOL",
+      "name": "Story Protocol",
+      "category": "Infrastructure",
+      "event_type": "Update",
+      "one_line_summary": "Story Protocol의 개발사 PIP Labs가 AI 에이전트 시장 대응을 위해 인력 감축 및 전략적 조직 개편을 단행했습니다.",
+      "why_it_matters": "Story Protocol은 온체인 지식재산권(IP) 인프라를 구축하는 선도적인 프로젝트로, 이번 인력 감축과 AI 에이전트 중심의 전략적 변화는 웹3와 AI의 결합이 단순한 트렌드를 넘어 실질적인 비즈니스 모델로 진화하고 있음을 시사합니다. AI 에이전트가 자율적으로 콘텐츠를 생성하고 소비하는 환경에서 IP의 권리 관계를 명확히 하고 수익을 배분하는 인프라의 중요성이 커지고 있으며, Story Protocol은 이 시장을 선점하기 위해 조직을 최적화하고 있습니다. 이는 단순한 비용 절감이 아니라 AI 시대의 'IP 레이어'로서의 입지를 굳히기 위한 공격적인 행보로 해석될 수 있으며, 향후 AI 에이전트 간의 상호작용에서 발생하는 복잡한 저작권 문제를 해결하는 핵심 표준이 될 가능성이 높습니다.",
+      "detected_date": "2026-03-13T06:48:30+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/361027/pip-labs-sheds-staff-story-protocol-ai"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "Infrastructure"
+      ],
+      "trending_score": 50,
+      "source_count": 1
+    },
+    {
+      "id": "1773555764070_TOKEN2049&TONCONNECT",
+      "name": "Token2049 & TON Connect",
+      "category": "Ecosystem",
+      "event_type": "Update",
+      "one_line_summary": "중동 지역의 지정학적 긴장 고조로 인해 두바이에서 개최 예정이었던 대규모 크립토 컨퍼런스인 Token2049와 TON Connect가 전격 취소되었습니다.",
+      "why_it_matters": "Token2049와 TON Connect는 전 세계 블록체인 리더, 투자자 및 개발자들이 모여 산업의 향방을 결정짓는 핵심적인 네트워킹 및 발표의 장입니다. 이번 행사 취소는 단순히 일정의 변경을 넘어, 해당 기간 동안 발표될 예정이었던 수많은 신규 프로젝트 런칭, 파트너십 체결, 그리고 기술 로드맵 공개가 지연됨으로써 시장 전반의 모멘텀에 일시적인 제동을 걸 수 있습니다. 특히 TON 생태계는 최근 텔레그램과의 긴밀한 협업을 통해 사용자 기반을 폭발적으로 확장하려던 중요한 시점에 있었기에, 이번 오프라인 허브의 부재는 커뮤니티 결집력 강화 측면에서 아쉬운 대목입니다. 또한, 이는 암호화폐 산업이 글로벌 지정학적 리스크로부터 자유롭지 않음을 시사하며, 향후 글로벌 크립토 허브로서 두바이의 안정성과 행사 운영 전략에 대한 업계의 다각적인 논의를 촉발할 것으로 보입니다.",
+      "detected_date": "2026-03-13T05:48:23+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/361013/dubai-token2049-ton-crypto-conferences-canceled-iran-conflict"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "Ecosystem"
+      ],
+      "trending_score": 45,
+      "source_count": 1
+    },
+    {
+      "id": "1773555775256_TRUMP(MAGA),RENDER(RNDR),PINETWORK",
+      "name": "Trump (MAGA), Render (RNDR), Pi Network",
+      "category": "Tokens",
+      "event_type": "Update",
+      "one_line_summary": "비트코인의 가격 다지기 국면에서 트럼프 밈코인, 렌더, 파이 네트워크 등 특정 알트코인들이 두 자릿수 급등을 기록하며 시장의 주목을 받음.",
+      "why_it_matters": "비트코인이 횡보하며 시장의 방향성을 탐색하는 가운데, 특정 내러티브를 가진 알트코인들로 자금이 유입되는 순환매 장세가 뚜렷해지고 있습니다. 특히 트럼프 관련 밈코인의 상승은 정치적 이벤트가 암호화폐 시장의 유동성에 직접적인 영향을 미치는 'PolitiFi' 영역의 확장을 보여주며, 렌더(Render)의 급등은 AI 산업과 결합된 분산형 컴퓨팅 인프라(DePIN)에 대한 기관 및 개인 투자자들의 지속적인 신뢰를 증명합니다. 또한 파이 네트워크의 반등은 거대 커뮤니티 기반 프로젝트들이 여전히 강력한 시장 영향력을 보유하고 있음을 시사합니다. 이러한 현상은 단순한 투기적 수요를 넘어, 암호화폐 시장이 각 섹터별 고유한 모멘텀과 기술적 가치에 따라 차별화된 움직임을 보이는 성숙기에 진입하고 있음을 의미하며, 투자자들에게는 비트코인 외에도 다양한 생태계의 성장 가능성을 재확인시키는 중요한 지표가 됩니다.",
+      "detected_date": "2026-03-13T05:27:19+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/361008/trump-render-pi-double-digit-gains-bitcoin-consolidation"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "Tokens"
+      ],
+      "trending_score": 45,
+      "source_count": 1
+    },
+    {
+      "id": "1773555786702_PREDICTIONMARKETS(예측시장)",
+      "name": "Prediction Markets (예측 시장)",
+      "category": "Infrastructure",
+      "event_type": "Update",
+      "one_line_summary": "미국 상품선물거래위원회(CFTC)가 예측 시장에 대한 규제 지침을 발표하고 공식적인 규칙 제정 검토에 착수했습니다.",
+      "why_it_matters": "이번 CFTC의 조치는 폴리마켓(Polymarket)과 같은 웹3 기반 예측 시장이 전 세계적으로 막대한 유동성을 흡수하며 급성장함에 따라, 이를 제도권 내에서 어떻게 통제하고 감독할 것인지에 대한 중대한 분기점이 될 것입니다. CFTC는 예측 시장의 거래 대상을 단순한 상품을 넘어 정치적 사건이나 정책 결과까지 확장하는 것에 대해 엄격한 잣대를 들이대고 있으며, 이는 탈중앙화 프로토콜들이 직면할 법적 리스크와 운영 한계를 명확히 규정하는 계기가 될 것입니다. 특히 이번 규제 검토는 선거철을 앞두고 정보의 신뢰성과 시장 조작 가능성을 차단하려는 의도가 강하며, 향후 웹3 서비스들이 미국 시장 내에서 합법적으로 비즈니스를 전개하기 위해 갖춰야 할 컴플라이언스 기준을 제시한다는 점에서 업계 전체에 미치는 영향이 매우 큽니다. 결과적으로 이 규제 방향성은 예측 시장의 제도권 편입 여부와 기술적 구현 방식의 변화를 결정짓는 핵심적인 이정표가 될 것으로 보입니다.",
+      "detected_date": "2026-03-12T21:15:07+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/360974/cftc-rein-in-prediction-markets-guidance-rulemaking-review"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "Infrastructure"
+      ],
+      "trending_score": 45,
+      "source_count": 1
+    },
+    {
+      "id": "1773555824217_AAVE",
+      "name": "Aave",
+      "category": "DeFi",
+      "event_type": "Update",
+      "one_line_summary": "Aave 인터페이스에서 발생한 5,000만 달러 규모의 고액 슬리피지 거래 손실에 대해 프로토콜 측이 60만 달러 규모의 수수료 환불을 제안했습니다.",
+      "why_it_matters": "이번 사건은 탈중앙화 금융(DeFi) 생태계에서 사용자 인터페이스(UI)의 경고 시스템과 유동성 관리의 중요성을 다시 한번 일깨워주는 중요한 사례입니다. 비록 사용자의 실수로 인해 막대한 자산 손실이 발생했음에도 불구하고, Aave 거버넌스가 수수료 환불이라는 전향적인 조치를 취한 것은 프로토콜의 커뮤니티 중심적 운영 철학을 잘 보여줍니다. 이는 단순한 기술적 결함을 넘어, 대규모 자본이 온체인에서 이동할 때 발생할 수 있는 리스크와 이를 완화하기 위한 프로토콜 차원의 대응 방식을 시사합니다. 또한, 이번 사례는 향후 DeFi 서비스들이 고액 거래 시 발생할 수 있는 치명적인 실수를 방지하기 위해 더욱 정교한 안전장치와 실행 알고리즘을 도입해야 할 필요성을 강조하며, 생태계 전반의 성숙도를 높이는 계기가 될 것입니다.",
+      "detected_date": "2026-03-12T13:49:05+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/360961/crypto-trader-loses-nearly-50m-aave-trade-600k-fee-refund"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "DeFi"
+      ],
+      "trending_score": 45,
+      "source_count": 1
+    },
+    {
+      "id": "1773555847776_TRUMPSOLANAMEMECOIN",
+      "name": "Trump Solana Meme Coin",
+      "category": "Consumer App",
+      "event_type": "Update",
+      "one_line_summary": "도널드 트럼프 전 대통령의 솔라나 기반 밈 코인 팀이 상위 보유자들을 위한 독점 이벤트를 발표하며 시장의 큰 관심을 끌고 있습니다.",
+      "why_it_matters": "이번 이벤트는 단순한 투기적 자산으로 치부되던 밈 코인이 강력한 개인 IP와 결합하여 어떻게 실질적인 커뮤니티 혜택과 오프라인 경험을 제공할 수 있는지 보여주는 중요한 사례입니다. 전직 대통령이라는 상징적인 인물이 웹3 기술을 활용해 지지자들과 직접 소통하고 독점적인 가치를 제공함으로써, 암호화폐가 정치 및 사회적 참여의 새로운 도구로 자리 잡고 있음을 시사합니다. 특히 솔라나 생태계 내에서 이러한 대형 이벤트가 개최되는 것은 네트워크의 확장성과 유동성을 증명하는 계기가 되며, 향후 유명인 기반 토큰들이 단순한 가격 변동성을 넘어 홀더들에게 어떤 유틸리티를 제공해야 하는지에 대한 새로운 기준을 제시하고 있습니다. 이는 결과적으로 대중의 웹3 온보딩을 가속화하고 암호화폐 시장의 저변을 넓히는 데 긍정적인 영향을 미칠 것으로 분석됩니다.",
+      "detected_date": "2026-03-12T11:49:01+00:00",
+      "source_links": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/360954/president-trump-hosting-another-exclusive-event-meme-coin-holders"
+        }
+      ],
+      "official_link": null,
+      "tier_1_count": 0,
+      "tier_2_count": 1,
+      "tags": [
+        "Consumer App"
+      ],
+      "trending_score": 45,
+      "source_count": 1
+    }
+  ]
+}

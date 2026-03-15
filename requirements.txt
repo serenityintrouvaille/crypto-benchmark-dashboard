@@ -1,2 +1,6 @@
 feedparser==6.0.10
 requests==2.31.0
+duckduckgo-search==6.1.7
+deep-translator==1.11.4
+openai==1.93.0
+google-genai==0.3.0

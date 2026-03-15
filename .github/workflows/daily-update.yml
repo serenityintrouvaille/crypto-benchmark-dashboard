@@ -24,11 +24,14 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          # pip install -r requirements.txt # This line was removed as per the instruction's context
 
-      - name: Fetch articles and update data.js
+      # Run the real LLM batch script to fetch, analyze, and save to public/feed.json
+      - name: Run Fetch and LLM Batch
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python fetch_data.py
+          python build_feed.py
 
       - name: Check if src/data.js changed
         id: changes
